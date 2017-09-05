@@ -1,0 +1,49 @@
+body {
+    background-color: grey;
+}
+
+/*.container {
+    margin: auto;
+    max-width: 30rem;
+    height: 100vh;
+    display: grid;
+    align-content: center;
+}
+
+.calculator {
+    background-color: orange;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-auto-rows: 5.625rem;
+    grid-gap: 0.625rem;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    padding: 0.600rem;
+}
+
+.result {
+    grid-column: 1/5;
+    border-style: inset;
+    border-width: 15px;
+    background-color: black;
+    color: white;
+    text-align: right;
+    font-size: 2.500rem;
+    padding-right: 2.650rem;
+}
+
+.clear-result {
+    grid-column: 1/4;
+}
+
+.zero {
+    grid-column: 1/3;
+}
+
+button {
+    font-size: 2rem;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: #C9CCCC;
+}*/
